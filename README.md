@@ -2,9 +2,11 @@
 <img src="https://user-images.githubusercontent.com/73972584/117386148-fd76e400-aeab-11eb-93f7-cd570b004c07.png">
 </div>
 <br>
-<h3 align="center">Hi there 👋 I'm Lu</h3>
-<br>
-<br>
+<div align="center">
+<img width="100" src="https://user-images.githubusercontent.com/73972584/117393271-631d9d00-aeb9-11eb-8de7-16141e0fbb65.gif">
+</div>
+
+
 <h4>About me</h4>
 <br>
 <p>Since I was a child, language has dazzled me and made me wonder why we call things as we do or who decided to name them, hence my inclination towards linguistics. 
@@ -31,5 +33,5 @@ I had never believed before that at some point, programming would have become my
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luciarojashernandez&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luciarojashernandez)  
+
 
