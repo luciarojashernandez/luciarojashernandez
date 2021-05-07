@@ -19,7 +19,7 @@ I had never believed before that at some point, programming would have become my
 
 <h4>Skills</h4>
 
-**JS / REACT / HTML / CSS**
+<img src="https://user-images.githubusercontent.com/73972584/117390282-7b8ab900-aeb3-11eb-9046-029263201e1d.png">
 
 ---------
 
